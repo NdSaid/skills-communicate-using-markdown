@@ -8,7 +8,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 In this section we have add differents styles of header
